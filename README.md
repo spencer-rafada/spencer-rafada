@@ -10,3 +10,9 @@ I started BS Computer Engineering in 2015 and that is when I discovered the worl
 - C
 - JavaScript
 - Clojure
+
+## Contacts
+
+- :email: sp3nz.code@gmail.com
+- :bird: [@spenz_code](https://twitter.com/spenz_code)
+- :camera: [spenz_code](https://www.instagram.com/spenz_code/)
