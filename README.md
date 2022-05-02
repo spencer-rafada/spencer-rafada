@@ -12,6 +12,11 @@ I started BS Software Engineering in 2015 and that is when I discovered the worl
 - Clojure
 - R
 
+## Experiential Projects
+- [Weather-API](https://github.com/spencer-rafada/weather-report)
+
+For other projects, look up my other repositories in my [GitHub profile](https://github.com/spencer-rafada)
+
 ## Contacts
 
 - :email: sp3nz.code@gmail.com
