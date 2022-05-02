@@ -1,3 +1,4 @@
+
 # Hello World :video_game: :computer:
 
 I am **Spencer Rafada**. I am from the Philippines :philippines:. I like to code, play video games, and learn different things.
@@ -11,6 +12,11 @@ I started BS Software Engineering in 2015 and that is when I discovered the worl
 - JavaScript
 - Clojure
 - R
+
+## Experiential Projects
+- [Weather-API](https://github.com/spencer-rafada/weather-report)
+
+For other projects, look up my other repositories in my [GitHub profile](https://github.com/spencer-rafada)
 
 ## Contacts
 
