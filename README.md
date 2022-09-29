@@ -45,5 +45,3 @@ I started BS Software Engineering in 2015 and that is when I discovered the worl
 ## Contacts
 
 - :email: neilspencerrafada@gmail.com
-- :bird: [@spenz_code](https://twitter.com/spenz_code)
-- :camera: [spenz_code](https://www.instagram.com/spenz_code/)
