@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hello World :video_game: :computer:
 
 I am **Spencer Rafada**. I am from the Philippines :philippines:. I like to code, play video games, and learn different things.
