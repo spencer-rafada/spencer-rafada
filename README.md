@@ -2,6 +2,7 @@
 
 - Husband, Developer and Creator of things
 - I love creating Software. Right now, I am planning to revamp my [Personal Portfolio](https://spencerrafada.onrender.com/) to a 3D Portfolio which means I'll learn Three.js 🚀
+    - I'm currently working on COSE. A SaaS to centralize all of my parent's construction business operations in one application. I'd love to talk with you about it!
 - I enjoy playing Basketball and video games 🏀🎮
 - **Have an awesome idea?** I'd love to touch base and [collaborate](mailto:neilspencerrafada@gmail.com) with you 📧
 
