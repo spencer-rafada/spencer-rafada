@@ -10,8 +10,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -54,5 +52,5 @@ Swift                    5 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 02/11/2024 16:46:20 UTC
+ Last Updated on 03/11/2024 16:45:29 UTC
 <!--END_SECTION:waka-->
