@@ -8,8 +8,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C472%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
@@ -52,5 +50,5 @@ Ruby                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 31/10/2025 17:02:20 UTC
+ Last Updated on 01/11/2025 17:02:23 UTC
 <!--END_SECTION:waka-->
