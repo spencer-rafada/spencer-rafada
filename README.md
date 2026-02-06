@@ -13,12 +13,6 @@
   <a href="https://discord.com/users/spenz."><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vue,tailwind,nodejs,python,go,express,postgres,mongodb,redis,githubactions,docker,git,vscode&perline=8" alt="Tech Stack" />
-</p>
-
 ---
 
 <!--START_SECTION:waka-->
