@@ -5,6 +5,20 @@
 - I enjoy playing Counter-Strike 2 and occassionally stream my games on [Twitch](https://www.twitch.tv/spenzxd)
 - **Have an awesome idea?** I'd love to touch base and [collaborate](mailto:neilspencerrafada@gmail.com) with you 📧
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/spencer-rafada/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.spenz.dev/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:neilspencerrafada@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/spenz_io"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://discord.com/users/spenz."><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vue,tailwind,nodejs,python,go,express,postgres,mongodb,redis,githubactions,docker,git,vscode&perline=8" alt="Tech Stack" />
+</p>
+
 ---
 
 <!--START_SECTION:waka-->
