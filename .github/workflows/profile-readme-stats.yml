@@ -8,6 +8,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
@@ -22,3 +23,7 @@ jobs:
           SHOW_EDITORS: 'False'
           SHOW_SHORT_INFO: 'False'
           SHOW_LOC_CHART: 'False'
+          # These two crawl the commit history of every repo on the account,
+          # which rate-limits and stretches the run to 3-4 hours.
+          SHOW_COMMIT: 'False'
+          SHOW_DAYS_OF_WEEK: 'False'
